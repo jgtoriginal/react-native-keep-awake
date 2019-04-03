@@ -11,7 +11,7 @@
   "bugs": {
     "url": "https://github.com/jgtoriginal/react-native-keep-awake/issues"
   },
-  "homepage": "https://github.com/jgtoriginal/react-native-keep-awake#readme",
+  "homepage": "git://github.com/jgtoriginal/react-native-keep-awake#readme",
   "keywords": [
     "react-native",
     "ios",
