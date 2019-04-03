@@ -1,17 +1,17 @@
 {
   "name": "react-native-keep-awake",
   "version": "4.0.0",
-  "branch": "master",
+  "branch": "custom",
   "description": "Keep the screen from going to sleep. iOS and Android.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/corbt/react-native-keep-awake.git"
+    "url": "https://github.com/jgtoriginal/react-native-keep-awake.git"
   },
   "bugs": {
-    "url": "https://github.com/corbt/react-native-keep-awake/issues"
+    "url": "https://github.com/jgtoriginal/react-native-keep-awake/issues"
   },
-  "homepage": "https://github.com/corbt/react-native-keep-awake#readme",
+  "homepage": "https://github.com/jgtoriginal/react-native-keep-awake#readme",
   "keywords": [
     "react-native",
     "ios",
