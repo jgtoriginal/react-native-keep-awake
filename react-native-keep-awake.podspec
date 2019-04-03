@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.license        = package['license']
   s.author         = package['author']
   s.homepage       = package['homepage']
-  s.source         = { :git => package['repository']['url'], :branch => 'master' }
+  s.source         = { :git => package['repository']['url'], :branch => 'custom' }
 
   s.requires_arc   = true
   s.platform       = :ios, '8.0'
