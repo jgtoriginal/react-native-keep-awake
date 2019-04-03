@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.license        = package['license']
   s.author         = package['author']
   s.homepage       = package['homepage']
-  s.source         = { :http => package['repository']['url'] }
+  s.source         = { :https => package['repository']['url'] }
 
   s.requires_arc   = true
   s.platform       = :ios, '8.0'
