@@ -5,12 +5,12 @@
   "description": "Keep the screen from going to sleep. iOS and Android.",
   "main": "index.js",
   "repository": {
-    "url": "https://github.com/jgtoriginal/react-native-keep-awake.git"
+    "url": "git://github.com/jgtoriginal/react-native-keep-awake.git"
   },
   "bugs": {
-    "url": "https://github.com/jgtoriginal/react-native-keep-awake/issues"
+    "url": "http://github.com/jgtoriginal/react-native-keep-awake/issues"
   },
-  "homepage": "https://github.com/jgtoriginal/react-native-keep-awake#readme",
+  "homepage": "http://github.com/jgtoriginal/react-native-keep-awake#readme",
   "keywords": [
     "react-native",
     "ios",
